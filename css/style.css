@@ -137,7 +137,7 @@ header {
 
     display: flex;
     gap: 4rem;
-    width: 65%;
+    max-width: 65%;
 }
 
 
@@ -189,7 +189,7 @@ header {
 
 .cta {
 
-    padding: 10rem;
+    padding: 8rem;
     display: flex;
     justify-content: center;
     align-items: center;
